@@ -1,0 +1,10 @@
+[
+  {
+    "strName": "CharGenFix",
+    "strAuthor": "Tumskunde",
+    "strModURL": "https://bluebottlegames.com/games/ostranauts",
+    "strGameVersion": "0.12.1.0",
+    "strModVersion": "1.0",
+    "strNotes": "A fix for the missing Weber Laser Torch from the Labor Barge Event in Char Gen."
+  }
+]
