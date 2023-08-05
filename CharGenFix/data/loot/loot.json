@@ -3285,8 +3285,8 @@
   { "strName" : "CONDTraderDiscountSellFlotillaBroker", "aCOs" : [ "DiscountSell=1.0x4.1-5.5" ], "aLoots" : [], "strType" : "condition" },
   { "strName" : "CONDTraderDiscountBuyFlotillaOrganizer", "aCOs" : [ "DiscountBuy=1.0x0.4-0.8" ], "aLoots" : [], "strType" : "condition" },
   { "strName" : "CONDTraderDiscountSellFlotillaOrganizer", "aCOs" : [ "DiscountSell=1.0x3.0-5.0" ], "aLoots" : [], "strType" : "condition" },
-  { "strName" : "CONDTraderDiscountSellShipBrokerOKLG", "aCOs" : [ "DiscountSell=1.0x1.1-1.3" ], "aLoots" : [], "strType" : "condition" },
-  { "strName" : "CONDTraderDiscountBuyShipBrokerOKLG", "aCOs" : [ "DiscountBuy=1.0x0.7-0.9" ], "aLoots" : [], "strType" : "condition" },
+  { "strName" : "CONDTraderDiscountSellShipBrokerOKLG", "aCOs" : [ "DiscountSell=1.0x1.2" ], "aLoots" : [], "strType" : "condition" },
+  { "strName" : "CONDTraderDiscountBuyShipBrokerOKLG", "aCOs" : [ "DiscountBuy=1.0x0.8" ], "aLoots" : [], "strType" : "condition" },
   
 
   { "strName" : "TraderCTsBuyBartender", "aCOs" : [ "TNever=1.0x1" ], "aLoots" : [], "strType" : "trigger" },
@@ -6506,7 +6506,6 @@
     ],
     "strType" : "trigger"
   },
-
    {
     "strName" : "CTEncTestA",
     "aCOs"    : [
