@@ -7,5 +7,5 @@ Updated for 0.12.1.10
 Installation:
 Download latest release.
 Create Folder "SteamLibrary"/steamapps/common/Ostranauts/Ostranauts_Data/Mods
-Extract contents to newly created "Mods" folder.
+Extract and copy the CharGenFix Folder and loading_order.json to newly created "Mods" folder.
 Enjoy.
