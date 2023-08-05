@@ -692,7 +692,7 @@
     "LootCTsUs"       : "CTSeekExerciseDirectUs",
     "LootCTsThem"     : null,
     "CTTestUs"           : "TNoDiscomfortsExercise",
-    "CTTestThem"         : "TIsExerciseGearInstalledOn",
+    "CTTestThem"         : "TIsExerciseGearInstalledOnNotActive",
     "aLootItms"       : [
     ],
     "objLootModeSwitch"    : null
@@ -4760,7 +4760,7 @@
   {
     "strName" : "CGEncHomeworldOKLGIntro",
     "strTitle" : "Your First Corporate Checkup",
-    "strDesc" : "The Ayotimiwa med-tech takes a glance at your chart, then at your body, then back at your chart. Immunosuppressed, low bone density, hypovolemic—standard condition for a young spacer on K-Leg station, born and raised as you were in the weak microgravity of a 33km asteroid.\n\nDoc says the insomnia is catching up with you. It's chronic around here, something likely caused by radiation and lack of sunlight. Your eyes work well enough for now, but they're still bad and they're getting worse.\n\nEighteen years old and rapidly approaching middle age. Your muscles are feeble by Mars standards. They wouldn't stand a chance on Earth.\n\nNo shit, you say. You're no Earther. And you never will be.\n\nA heart monitor beeps and then beeps again. The bored tech scribbles a few notes and grants your work permissions: healthy enough to strip hulls in The Boneyard, despite everything.\n\nFine with you. Closer to the ships, after all. And you're going to get one.\n\n",
+    "strDesc" : "The Ayotimiwa med-tech takes a glance at your chart, then at your body, then back at your chart. Immunosuppressed, low bone density, hypovolemic-standard condition for a young spacer on K-Leg station, born and raised as you were in the weak microgravity of a 33km asteroid.\n\nDoc says the insomnia is catching up with you. It's chronic around here, something likely caused by radiation and lack of sunlight. Your eyes work well enough for now, but they're still bad and they're getting worse.\n\nEighteen years old and rapidly approaching middle age. Your muscles are feeble by Mars standards. They wouldn't stand a chance on Earth.\n\nNo shit, you say. You're no Earther. And you never will be.\n\nA heart monitor beeps and then beeps again. The bored tech scribbles a few notes and grants your work permissions: healthy enough to strip hulls in The Boneyard, despite everything.\n\nFine with you. Closer to the ships, after all. And you're going to get one.\n\n",
     "aInverse"          : [
     ],
     "fDuration"         : 0.0,
